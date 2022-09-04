@@ -23,12 +23,15 @@ body{
       padding: 10px 5px;
 }
 .text{
-      background-color: rgba(212, 215, 213, 0.782);
-      height: 70%;
-      width: 70%;
+      background-color: rgba(212, 215, 213, 0);
+      height: 55%;
+      width: 50%;
       resize: none;
       border: none;
       outline: none;
+      text-align: center;
+      color: black;
+      vertical-align: middle;
 }
 .text::-webkit-scrollbar{
       display: none;
