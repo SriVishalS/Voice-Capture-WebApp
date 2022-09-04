@@ -23,7 +23,7 @@ body{
       padding: 10px 5px;
 }
 .text{
-      background-color: rgba(212, 215, 213, 0);
+      background-color: transparent;
       height: 55%;
       width: 50%;
       resize: none;
