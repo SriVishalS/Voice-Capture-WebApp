@@ -8,14 +8,14 @@ body{
       justify-content: center;
       align-items: center;
       height: 100vh;
+      background-color: black;
 }
 .componentContainer{
-      height: 200px;
-      width: 200px;
-      border-radius: 20px;
-      -webkit-border-radius:125px;
+      height: 300px;
+      width: 300px;
+      border-radius: 50%;
       background: rgba(212, 215, 213, 0.782);
-      box-shadow: 12px 12px 24px #7a7c83, -12px -12px 24px #ffffff;
+      /* box-shadow: 12px 12px 24px #7a7c83, -12px -12px 24px #ffffff; */
       display: flex;
       justify-content: center;
       align-items: center;
@@ -32,13 +32,15 @@ body{
       text-align: center;
       color: black;
       vertical-align: middle;
+      font-size: 20px;
 }
 .text::-webkit-scrollbar{
       display: none;
 }
 .btn{
-      height: 40px;
-      width: 40px;
+      height: 60px;
+      width: 60px;
+      font-size: 20px;
       border: 0.01px solid gray;
       border-radius: 50%;
       border-radius: 61px;
